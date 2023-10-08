@@ -1,4 +1,4 @@
-import Project2 from "../../assets/project2.webp";
+import Project2 from "../../assets/PriceTracker.png";
 import Project3 from "../../assets/project3.webp";
 import LMS from "../../assets/LMS.jpg";
 
@@ -13,9 +13,10 @@ export const projectsData = [
   {
     id: 2,
     image: Project2,
-    title: "Project 2",
+    title: "Price Tracker",
     category: "B",
-    tags: "React, mongoDB, Tailwind",
+    tags: "Next, Typescript, Tailwind, Axios, Cheerio",
+    secTags: "Nodemailer, MongoDB",
   },
   {
     id: 3,
